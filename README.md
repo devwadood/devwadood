@@ -2,15 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ranaabdulwadood/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/devwadood)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@abdulwadood918)
-
-![Banner](https://your-image-link.com/banner.png)
 
 ---
 
 ## 🚀 Full Stack Developer | AI Engineer in Progress | SaaS Builder
 
-🧑‍💻 **Full Stack Engineer** (MERN, NestJS, Docker, AWS)  
+🧑‍💻 **Full Stack Engineer** (MERN, MEAN, NestJS, Docker, AWS)  
 🧠 **AI/ML Explorer** - Python, Jupyter, OpenAI, LangChain  
 🔗 Building SaaS Products | Real-Time Systems | Scalable Architectures  
 🌍 Based in Pakistan 🇵🇰  
@@ -20,7 +17,7 @@
 
 ## 🔧 Tech Stack
 
-TypeScript | JavaScript | Python | Node.js | React | NestJS | MongoDB | PostgreSQL | Docker | AWS | Redis | Vite | Zustand
+TypeScript | JavaScript | Python | Node.js | React | NestJS | MongoDB | PostgreSQL | Docker | AWS | Redis | Vite | Zustand | Angular
 
 
 ---
@@ -29,8 +26,7 @@ TypeScript | JavaScript | Python | Node.js | React | NestJS | MongoDB | PostgreS
 
 - 📚 Building a daily Python + AI learning schedule  
 - 💬 Real-time Chat Application with Admin/Customer Interface  
-- 🎯 Planning a side SaaS product focused on Resume Screening using AI  
-- 📺 IPTV business setup using white-label Android STB  
+- 🎯 Planning a side SaaS product focused on Workation for a German Firm
 
 ---
 
@@ -55,7 +51,7 @@ TypeScript | JavaScript | Python | Node.js | React | NestJS | MongoDB | PostgreS
 
 ## 🧠 Ask Me About
 
-> `React` • `NestJS` • `Socket.io` • `AWS Deployment` • `AI App Ideas` • `SaaS Planning` • `Python Basics`
+> `React` • `NestJS` • `Socket.io` • `AWS Deployment` • `AI App Ideas` • `SaaS Planning` • `Python Basics` • `Angular` • `Express` • `Node` •
 
 ---
 
