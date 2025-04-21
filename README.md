@@ -1,8 +1,8 @@
 # Hey Everyone! I'm Abdul Wadood 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-link/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@yourchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ranaabdulwadood/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/devwadood)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@abdulwadood918)
 
 ![Banner](https://your-image-link.com/banner.png)
 
@@ -14,7 +14,7 @@
 🧠 **AI/ML Explorer** - Python, Jupyter, OpenAI, LangChain  
 🔗 Building SaaS Products | Real-Time Systems | Scalable Architectures  
 🌍 Based in Pakistan 🇵🇰  
-📬 DM me on [LinkedIn](https://www.linkedin.com/in/rana-abdul-wadood/) or [Twitter](https://twitter.com/abdulwadood918)
+📬 DM me on [LinkedIn](https://www.linkedin.com/in/ranaabdulwadood) or [Twitter](https://twitter.com/abdulwadood918)
 
 ---
 
@@ -35,12 +35,12 @@ TypeScript | JavaScript | Python | Node.js | React | NestJS | MongoDB | PostgreS
 ---
 
 ## 🧰 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwadood&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Stats
-![Wadood's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Wadood's GitHub stats](https://github-readme-stats.vercel.app/api?username=devwadood&show_icons=true&theme=radical)
 
 ---
 
