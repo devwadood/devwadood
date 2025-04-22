@@ -40,6 +40,12 @@ TypeScript | JavaScript | Python | Node.js | React | NestJS | MongoDB | PostgreS
 
 ---
 
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devwadood&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🎯 Fun Facts
 
 - 🔥 I prefer building over consuming.  
