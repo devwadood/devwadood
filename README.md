@@ -31,18 +31,18 @@ TypeScript | JavaScript | Python | Node.js | React | NestJS | MongoDB | PostgreS
 ---
 
 ## 🧰 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwadood&layout=compact&theme=darkhub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwadood&layout=compact&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
 ## 🏆 GitHub Stats
-![Wadood's GitHub stats](https://github-readme-stats.vercel.app/api?username=devwadood&show_icons=true&theme=darkhub)
+![Wadood's GitHub stats](https://github-readme-stats.vercel.app/api?username=devwadood&show_icons=true&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devwadood&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devwadood&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
