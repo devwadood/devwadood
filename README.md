@@ -1,9 +1,5 @@
-Here's an updated and polished version of your README to give it a professional and eye-catching "wow" effect:
-
----
-
 # Hey Everyone! I'm Abdul Wadood 👋  
-![Banner](./assets/pro-dev.png)
+![Banner](./pro-dev.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ranaabdulwadood/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/devwadood)  
